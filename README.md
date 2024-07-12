@@ -1,1 +1,6 @@
-# codtech_task2
+name:JAYAKRISHNA GEDELA
+company:CODTECH IT SOLUTIONS
+id:CT08VLSI957
+domain:VLSI
+duration:15th JUNE to 15th AUGUST
+mentor:SRAVANI GOUNI
